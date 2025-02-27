@@ -55,11 +55,7 @@ export default function Page() {
         <p>
           Built and maintained by{" "}
           <a href="https://imsirius.xyz/" target="_blank">
-            Sirius 
-          </a>
-           Thank a lot by {""}
-          <a href="https://www.youtube.com/watch?v=vXBw1vQ0O-g&list=PLPanbgyToztYlSxKLf7qFl6VpLYn2T_i1" target="_blank">
-          me
+            Sirius
           </a>
           .
         </p>
